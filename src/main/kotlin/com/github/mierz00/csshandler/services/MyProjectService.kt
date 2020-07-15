@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.mierz00.csshandler.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.mierz00.csshandler.MyBundle
 
 class MyProjectService(project: Project) {
 
